@@ -10,7 +10,7 @@
 <body>
     <div class="wrapper">
         <form action="./login.php">
-            <h1>Registrasi</h1>
+            <h1>Register</h1>
             <div class="input-box">
                 <input type="text" id="fullname" name="fullname" placeholder="Fullname" required>
             </div>
